@@ -27,53 +27,60 @@ Ensure the spinner is hidden once the page loads by using JavaScript or jQuery.
 Add a custom style if you want to match the company's theme.
 
 2. Header Section:
+   
 The header contains contact information, social media links, and a navigation bar.
-Improvements:
 
+Improvements:
 Ensure the links in the navigation bar point to actual pages by replacing href="" with the correct URL.
 Add aria-label for better accessibility on social media icons.
 Consider using SVG icons for sharper quality.
 
 3. Carousel Section
-This is a Bootstrap carousel used to showcase featured images and text.
-Improvements:
 
+This is a Bootstrap carousel used to showcase featured images and text.
+
+Improvements:
 Ensure all alt attributes are descriptive for better SEO and accessibility.
 Optimize images for faster loading, using compressed formats like WebP.
 
 4. About Us Section
-Provides information about the company and its achievements.
-Improvements:
 
+Provides information about the company and its achievements.
+
+Improvements:
 Consider rewriting the placeholder text in <p class="mb-4">Write about your about here</p>.
 Add descriptive alt tags to images for SEO purposes.
 Use data-wow-delay for staggered animations, ensuring the wow.js library is correctly included.
 
 5. Packages Section
-Displays travel packages with a grid layout.
-Improvements:
 
+Displays travel packages with a grid layout.
+
+Improvements:
 Add meaningful alt attributes for images.
 Provide unique IDs to each package for better tracking.
 
 6. Services Section
-Highlights key services with icons and descriptions.
-Improvements:
 
+Highlights key services with icons and descriptions.
+
+Improvements:
 Ensure the wow.js animations are functioning correctly.
 Check responsiveness on all devices.
 
 7. Newsletter Section
-Offers a subscription to the company newsletter.
-Improvements:
 
+Offers a subscription to the company newsletter.
+
+Improvements:
 Include form validation for email input.
 Add backend integration for newsletter subscriptions.
 
 8. Footer Section
-Contains contact information, quick links, and social media icons.
-Improvements:
 
+Contains contact information, quick links, and social media icons.
+
+Improvements:
 Add real social media links.
 Ensure image alt attributes are descriptive.
 Verify all links and contact details for accuracy.
