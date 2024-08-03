@@ -47,6 +47,9 @@ Optimize images for faster loading, using compressed formats like WebP.
 
 Provides information about the company and its achievements.
 
+![Screenshot 2024-08-03 200308](https://github.com/user-attachments/assets/a05048ec-3a81-40ec-b043-298496ef3a6c)
+
+
 Improvements:
 Consider rewriting the placeholder text in 
 Add descriptive alt tags to images for SEO purposes.
