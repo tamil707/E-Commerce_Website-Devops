@@ -7,6 +7,7 @@ Using HTML, CSS, JS for create E-Commerce website
 
 # HTML Structure Breakdown
 Head Section
+![Screenshot 2024-08-03 194137](https://github.com/user-attachments/assets/0e683c2a-4bee-483b-b566-fcb3c731aa04)
 
 Includes metadata, links to external stylesheets, and font libraries.
 Imports Bootstrap for responsive design and Font Awesome for icons.
