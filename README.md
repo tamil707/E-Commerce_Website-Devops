@@ -86,6 +86,8 @@ Add backend integration for newsletter subscriptions.
 8. Footer Section
 
 Contains contact information, quick links, and social media icons.
+![Screenshot 2024-08-03 200813](https://github.com/user-attachments/assets/0f9b62e4-11c1-46a2-93bc-d8ff8dcf2746)
+
 
 Improvements:
 Add real social media links.
