@@ -18,14 +18,14 @@ Utilizes Bootstrap classes for layout and responsiveness.
 
 Here's the detailed breakdown and some potential improvements:
 
-1. Spinner Section
+1. Spinner Section:
 This section creates a loading spinner using Bootstrap. It's displayed until the page content is fully loaded.
 Improvements:
 
 Ensure the spinner is hidden once the page loads by using JavaScript or jQuery.
 Add a custom style if you want to match the company's theme.
 
-2. Header Section
+2. Header Section:
 The header contains contact information, social media links, and a navigation bar.
 Improvements:
 
