@@ -48,7 +48,7 @@ Optimize images for faster loading, using compressed formats like WebP.
 Provides information about the company and its achievements.
 
 Improvements:
-Consider rewriting the placeholder text in <p class="mb-4">Write about your about here</p>.
+Consider rewriting the placeholder text in 
 Add descriptive alt tags to images for SEO purposes.
 Use data-wow-delay for staggered animations, ensuring the wow.js library is correctly included.
 
