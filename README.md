@@ -68,6 +68,8 @@ Provide unique IDs to each package for better tracking.
 6. Services Section
 
 Highlights key services with icons and descriptions.
+![Screenshot 2024-08-03 200640](https://github.com/user-attachments/assets/0f45bdfa-72e1-4454-b357-25df60ccca78)
+
 
 Improvements:
 Ensure the wow.js animations are functioning correctly.
