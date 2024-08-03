@@ -58,6 +58,8 @@ Use data-wow-delay for staggered animations, ensuring the wow.js library is corr
 5. Packages Section
 
 Displays travel packages with a grid layout.
+![Screenshot 2024-08-03 200503](https://github.com/user-attachments/assets/6dd05b43-54a8-4bb0-863d-545baf366fe4)
+
 
 Improvements:
 Add meaningful alt attributes for images.
